@@ -29,7 +29,7 @@
     align-items: center;
 }
 
-.left > form {
+.left>form {
     width: 404px;
     height: 638px;
     border: 1px solid black;
